@@ -22,7 +22,7 @@
 ## Usage
 
 ### 运行方式
-
+Yunx和
 1. fork本项目到你的个人账号
    
 2. 设置Secrets
